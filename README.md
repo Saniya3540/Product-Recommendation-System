@@ -23,5 +23,4 @@ https://saniya3540-recommendation-system.streamlit.app/
 * Streamlit
 
 ## Dataset
-
-The original dataset was not uploaded because of large file size.
+The dataset was not uploaded because of large file size.
